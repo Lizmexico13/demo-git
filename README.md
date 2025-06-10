@@ -1,6 +1,6 @@
 # demo-git
 Demo de la clase
 
-**¡Hola a todos!**
+**¡Hola a todes!**
 
 Este es un nuevo mensaje
